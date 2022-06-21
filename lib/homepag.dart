@@ -22,9 +22,9 @@ class _homepageState extends State<homepage> {
     "Play",
     "Stop",
     "Play rock music",
-    "Play 107 FM",
+    "Play 107 Music",
     "Play next",
-    "Play 104 FM",
+    "Play 104 Music",
     "Pause",
     "Play previous",
     "Play pop music"
